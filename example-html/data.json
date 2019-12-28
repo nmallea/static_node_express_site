@@ -1,0 +1,91 @@
+
+{
+	"projects": [
+		{
+			"id": 0,
+			"project_name": "Random Dev Quote Generator",
+			"description": "This app, written in vanilla javaScript, displays random developer quotes each time a button is clicked.",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
+			"live_link": "",
+			"github_link": "https://github.com/nmallea/random_dev_quote_generator",
+			"image_urls": [
+				"/static/images/",
+				"/static/images/",
+				"/static/images/"
+			]
+		},
+		{
+			"id": 1,
+			"project_name": "Student List Pagination and Filtering",
+			"description": "This project uses unobstructive, vanilla JavaScript for DOM manipulation to display a list of student names (10 per page). A dynamic search is added with pagnation, event listeners, and error message.",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
+			"live_link": "",
+			"github_link": "https://github.com/nmallea/student_list_pagination_search",
+			"image_urls": [
+				"/static/images/",
+				"/static/images/",
+				"/static/images/"
+			]
+		},
+		{
+			"id": 2,
+			"project_name": "Interactive Form Using jQuery",
+			"description": "This is an interactive registration form for a fictional JavaScript conference. This project demonstrates use of jQuery, event listeners and Regex",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript",
+				"jQuery"
+			],
+			"live_link": "",
+			"github_link": "https://github.com/nmallea/interactive_form_jquery",
+			"image_urls": [
+				"/static/images/",
+				"/static/images/",
+				"/static/images/"
+			]
+		},
+		{
+			"id": 3,
+			"project_name": "Programming Language Guessing Game",
+			"description": "A browser-based, word game using vanilla JavaScript and object-oriented programming",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
+			"live_link": "",
+			"github_link": "https://github.com/nmallea/programming_guessing_game",
+			"image_urls": [
+				"/static/images/",
+				"/static/images/",
+				"/static/images/"
+			]
+		},
+		{
+			"id": 4,
+			"project_name": "Employee Directory",
+			"description": "The fifth project in Treehouse JavaScript Full Stack Tech Degree. The project is about creating an employee directory using a public API.",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
+			"live_link": "https://tfsn86.github.io/TD-project-5/",
+			"github_link": "https://github.com/tfsn86/TD-project-5",
+			"image_urls": [
+				"/static/images/td-project-5/employee-550x550.jpg",
+				"/static/images/td-project-5/employee-1200x550.jpg",
+				"/static/images/td-project-5/ja1200x550.jpg"
+			]
+		}
+	]
+}
