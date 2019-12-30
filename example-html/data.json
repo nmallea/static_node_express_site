@@ -13,9 +13,9 @@
 			"live_link": "",
 			"github_link": "https://github.com/nmallea/random_dev_quote_generator",
 			"image_urls": [
-				"/static/images/",
-				"/static/images/",
-				"/static/images/"
+				"/public/images/quote_generator/quote_main.png",
+				"/public/images/quote_generator/quote2.png",
+				"/public/images/quote_generator/quote3.png"
 			]
 		},
 		{
@@ -30,9 +30,9 @@
 			"live_link": "",
 			"github_link": "https://github.com/nmallea/student_list_pagination_search",
 			"image_urls": [
-				"/static/images/",
-				"/static/images/",
-				"/static/images/"
+				"/public/images/list_pagination/list_main.png",
+				"/public/images/list_pagination/list2.png",
+				"/public/images/list_pagination/list3.png"
 			]
 		},
 		{
@@ -48,9 +48,9 @@
 			"live_link": "",
 			"github_link": "https://github.com/nmallea/interactive_form_jquery",
 			"image_urls": [
-				"/static/images/",
-				"/static/images/",
-				"/static/images/"
+				"/public/images/jquery_form/form_main.png",
+				"/public/images/jquery_form/form2.png",
+				"/public/images/jquery_form/form3.png"
 			]
 		},
 		{
@@ -65,26 +65,26 @@
 			"live_link": "",
 			"github_link": "https://github.com/nmallea/programming_guessing_game",
 			"image_urls": [
-				"/static/images/",
-				"/static/images/",
-				"/static/images/"
+				"/public/images/game/game_main.png",
+				"/public/images/game/game2.png",
+				"/public/images/game/game3.png"
 			]
 		},
 		{
 			"id": 4,
-			"project_name": "Employee Directory",
-			"description": "The fifth project in Treehouse JavaScript Full Stack Tech Degree. The project is about creating an employee directory using a public API.",
+			"project_name": "Public API Request -- Employee Directory",
+			"description": "An app for a fictional company called Awesome Startup, to share employees contact information with each other. This app uses the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and use that data to build a prototype for an Awesome Startup employee directory.",
 			"technologies": [
 				"HTML",
 				"CSS",
 				"JavaScript"
 			],
-			"live_link": "https://tfsn86.github.io/TD-project-5/",
-			"github_link": "https://github.com/tfsn86/TD-project-5",
+			"live_link": "",
+			"github_link": "https://github.com/nmallea/public_api_request",
 			"image_urls": [
-				"/static/images/td-project-5/employee-550x550.jpg",
-				"/static/images/td-project-5/employee-1200x550.jpg",
-				"/static/images/td-project-5/ja1200x550.jpg"
+				"/public/images/api_requests/api_main.png",
+				"/public/images/api_requests/api2.png",
+				"/public/images/api_requests/api3.png"
 			]
 		}
 	]
