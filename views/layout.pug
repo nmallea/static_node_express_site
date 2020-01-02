@@ -5,27 +5,27 @@ html(class="no-js" lang="en" dir="ltr")
     meta(http-equiv='x-ua-compatible', content='ie=edge')
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     title Portfolio Site
-    link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
+    link(href='https://fonts.googleapis.com/css?family=Space+Mono:300,400,400i,700,800', rel='stylesheet')
     link(rel='stylesheet', href='/public/css/foundation.css')
     link(rel='stylesheet', href='/public/css/style.css')
+    link(rel='icon' href='/public/images/favicon4.ico' type='image/x-icon')
   body
     #my-info.off-canvas.position-left.reveal-for-large.portfolio-me(data-off-canvas='')
       .grid-y.grid-padding-x(style='height: 100%;')
         block sidebar
           br
           .cell.shrink
-            img.thumbnail(src='https://placehold.it/550x350')
+            img.thumbnail(src='/public/images/profile.jpeg')
           .cell.auto
 
-            //- Add your name here.
             h5 Nikane Mallea
 
-            //- Add text here to describe who you are, what you do, and why you are so awesome.
+            //- adds short description
             p.text-light
-              | Hi! I'm Nik, am a full stack Javascript developer working remotely from Germany.
+              | Hi! I'm Nik, am a full stack Javascript developer working remotely in Europe.
 
 
-            //- Add about page route to the href below.
+            //- about page route
             a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
@@ -33,13 +33,13 @@ html(class="no-js" lang="en" dir="ltr")
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
 
-          //- Add your name here.  This is for the mobile screen sized version.
+          //- adds name for the mobile screen sized versions
           span.title-bar-title Nikane Mallea
       block content
 
 
 
-  script(src='/static/js/vendor/jquery.js')
-  script(src='/static/js/vendor/what-input.js')
-  script(src='/static/js/vendor/foundation.js')
-  script(src='/static/js/scripts.js')
+  script(src='/public/js/vendor/jquery.js')
+  script(src='/public/js/vendor/what-input.js')
+  script(src='/public/js/vendor/foundation.js')
+  script(src='/public/js/scripts.js')

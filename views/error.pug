@@ -1,6 +1,19 @@
+
 extends layout.pug
 
 block content
-  h1 = error.message
-  h2 = error.status
-  pre = error.stack
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+
+        h1 Oh darn, this link isn’t working.
+
+        p#error_message.lead.text-light= `${error.message} ${error.status}`
+
+        p= error.stack
+
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back

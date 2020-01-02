@@ -4,7 +4,7 @@
 		{
 			"id": 0,
 			"project_name": "Random Dev Quote Generator",
-			"description": "This app, written in vanilla javaScript, displays random developer quotes each time a button is clicked.",
+			"description": "This app, written in vanilla JavaScript, displays random developer quotes each time a button is clicked or auto-refreshes",
 			"technologies": [
 				"HTML",
 				"CSS",
@@ -21,7 +21,7 @@
 		{
 			"id": 1,
 			"project_name": "Student List Pagination and Filtering",
-			"description": "This project uses unobstructive, vanilla JavaScript for DOM manipulation to display a list of student names (10 per page). A dynamic search is added with pagnation, event listeners, and error message.",
+			"description": "This project uses unobstructive, vanilla JavaScript for DOM manipulation to display a list of student names (10 per page). A dynamic search is added with pagination, event listeners, and error messages.",
 			"technologies": [
 				"HTML",
 				"CSS",
@@ -38,7 +38,7 @@
 		{
 			"id": 2,
 			"project_name": "Interactive Form Using jQuery",
-			"description": "This is an interactive registration form for a fictional JavaScript conference. This project demonstrates use of jQuery, event listeners and Regex",
+			"description": "This is an interactive registration form for a fictional JavaScript conference. This project demonstrates use of jQuery, event listeners and Regex.",
 			"technologies": [
 				"HTML",
 				"CSS",
@@ -77,7 +77,8 @@
 			"technologies": [
 				"HTML",
 				"CSS",
-				"JavaScript"
+				"JavaScript",
+				"Fetch API"
 			],
 			"live_link": "https://nmallea.github.io/public_api_request/",
 			"github_link": "https://github.com/nmallea/public_api_request",
