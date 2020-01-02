@@ -10,7 +10,7 @@
 				"CSS",
 				"JavaScript"
 			],
-			"live_link": "",
+			"live_link": "https://nmallea.github.io/random_dev_quote_generator/",
 			"github_link": "https://github.com/nmallea/random_dev_quote_generator",
 			"image_urls": [
 				"/public/images/quote_generator/quote_main.png",
@@ -27,7 +27,7 @@
 				"CSS",
 				"JavaScript"
 			],
-			"live_link": "",
+			"live_link": "https://nmallea.github.io/student_list_pagination_search/",
 			"github_link": "https://github.com/nmallea/student_list_pagination_search",
 			"image_urls": [
 				"/public/images/list_pagination/list_main.png",
@@ -45,7 +45,7 @@
 				"JavaScript",
 				"jQuery"
 			],
-			"live_link": "",
+			"live_link": "https://nmallea.github.io/interactive_form_jquery/",
 			"github_link": "https://github.com/nmallea/interactive_form_jquery",
 			"image_urls": [
 				"/public/images/jquery_form/form_main.png",
@@ -62,7 +62,7 @@
 				"CSS",
 				"JavaScript"
 			],
-			"live_link": "",
+			"live_link": "https://nmallea.github.io/programming_guessing_game/",
 			"github_link": "https://github.com/nmallea/programming_guessing_game",
 			"image_urls": [
 				"/public/images/game/game_main.png",
@@ -79,7 +79,7 @@
 				"CSS",
 				"JavaScript"
 			],
-			"live_link": "",
+			"live_link": "https://nmallea.github.io/public_api_request/",
 			"github_link": "https://github.com/nmallea/public_api_request",
 			"image_urls": [
 				"/public/images/api_requests/api_main.png",
