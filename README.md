@@ -1,2 +1,14 @@
-# static_node_express_site
+### Portfolio using Static Node.js and Express
+
+
+- Use of required dependencies (Express and Pug)
+- Links the JSON with the Pug templates
+- Sets up routes to handle requests
+- Sets up the middleware to utilize static files like CSS
+- Sets up a server for the project
+
+Additions:
+- Error handling
+- Flavicon
+-An updated font family and font styling
  
