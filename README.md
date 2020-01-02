@@ -10,5 +10,5 @@
 Additions:
 - Error handling
 - Flavicon
--An updated font family and font styling
+- An updated font family and font styling
  
