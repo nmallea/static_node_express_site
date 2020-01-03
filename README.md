@@ -8,6 +8,7 @@
 - Sets up a server for the project
 
 Additions:
+- package.json file set, running npm start will run the app
 - Error handling
 - Flavicon
 - An updated font family and font styling
