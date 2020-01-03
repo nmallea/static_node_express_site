@@ -12,4 +12,5 @@ Additions:
 - Error handling
 - Flavicon
 - An updated font family and font styling
+- Adds animation to project thumbnails
  
