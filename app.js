@@ -50,7 +50,7 @@ app.use((req, res, next) => {
 //  error information
 app.use((err, req, res, next) => {
 	res.locals.error = err;
-	res.status(err.status);
+	res.status(500 || err.status);
 	res.render('error');
 
 	console.log('Link not working');
